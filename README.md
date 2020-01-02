@@ -7,7 +7,7 @@ The chubaofs-helm project helps deploy a ChubaoFS cluster orchestrated by Kubern
 
 ### Prerequisite 
 Kubernetes 1.16+
-Helm 2 (If you use hellm3, please read [this documentation](https://github.com/chubaofs/chubaofs-helm/blob/master/chubaofs/README.md))
+Helm 2 (If you use Helm 3, please read [this documentation](https://github.com/chubaofs/chubaofs-helm/blob/master/chubaofs/README.md))
  
 ### Init Helm
 
